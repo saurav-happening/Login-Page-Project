@@ -1,4 +1,8 @@
-# This is a Login-page project created using only html and css.
-# my name is saurav.
-# Thank you for checking out the project.
-# Let me know any changes and suggestions...
+# Login page project
+This is a Login-page project created using only html and css. 
+<br>
+my name is saurav.
+<br>
+Thank you for checking out the project.
+<br>
+Let me know any changes and suggestions...
